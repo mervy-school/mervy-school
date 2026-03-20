@@ -83,8 +83,8 @@ I'm a Computer Engineering student passionate about building **robust, scalable,
 
 | | |
 |---|---|
-| 💼 **Portfolio** | [merveilletsafacktech.netlify.app](https://merveilletsafacktech.netlify.app/) |
-| ✍️ **Blog** | [merveilletsafackteck.netlify.app](https://merveilletsafacktech.netlify.app/blog) |
+| 💼 **Portfolio** | [merveilletsafacktech.netlify.app](https://merveilletsafacktech.netlify.app) |
+| ✍️ **Blog** | [merveilletsafackteck.netlify.app](https://merveilletsafacktech.netlify.app) |
 
 ---
 
